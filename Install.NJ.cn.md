@@ -27,6 +27,7 @@
 ### 第三步：安装好EMBOSS以后，安装PHYLIBNEW
 
 	tar -xzvf PHYLIPNEW-3.69.660.tar.gz   # 解压 
+        mkdir -p /public/software/PHYLIPNEW-3.69.650/lib/ 
 	cp  -r /public/software/EMBOSS-6.6.0/lib/*        /public/software/PHYLIPNEW-3.69.650/lib/
 	cp  -r /public/software/EMBOSS-6.6.0/include/*    /public/software/PHYLIPNEW-3.69.650/include/
 	   # 在安装好EMBOSS后 即在 EMBOSS-6.6.0  里面有include 和lib 目录;
