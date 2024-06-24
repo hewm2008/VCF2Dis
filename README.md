@@ -105,7 +105,7 @@ The formula for calculating p-distance between indivisuals from VCF SNP datasets
 To further know about the p_distance matrix based the VCF file, please refer to <b>[this website.](https://phylipweb.github.io/phylip/doc/distance.html)</b>
 ###  5) Results
 ------------
-VCF2Dis have been cited in more than <b> 150 times </b> by [searching against google scholar](https://scholar.google.com.hk/scholar?hl=VCF2Dis).
+VCF2Dis have been cited in more than <b> 150 times </b> by [searching against google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0,5&q=VCF2Dis).
 </br>Below were some NJ-tree images that I draw in the paper before.
 
 * [50 Rices NBT](https://www.nature.com/articles/nbt.2050/figures/1)
