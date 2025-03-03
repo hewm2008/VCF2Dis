@@ -149,8 +149,9 @@ VCF2Dis have been cited in more than <b> 170 times </b> by [searching against go
 
 ###  6) Discussing
 ------------
-- [:email:](https://github.com/hewm2008/VCF2Dis) hewm2008@gmail.com / hewm2008@qq.com
+- [:email:](https://github.com/hewm2008/VCF2Dis) hewm2008@gmail.com / hewm2008@qq.com / 
 - join the<b><i> QQ Group : 125293663</b></i>
+- other liaox (1911751806@qq.com）
 
 
 ######################swimming in the sky and flying in the sea ########################### ##
