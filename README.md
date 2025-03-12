@@ -1,6 +1,12 @@
 # VCF2Dis
 <b>VCF2Dis: an ultra-fast and efficient tool to calculate pairwise genetic distance and construct population phylogeny from VCF files</b>
 
+The <i><b>[VCF2Dis article](https://doi.org/10.1093/gigascience/giaf032)</b></i> has been published in <b> [GigaScience](https://doi.org/10.1093/gigascience/giaf032)</b>, please cited this article if possible
+</br>Acceptance Date :2025 Mar 5
+</br>Publication : [GigaScience](https://doi.org/10.1093/gigascience/giaf032)
+</br>Title :  VCF2Dis: an ultra-fast and efficient tool to calculate pairwise genetic distance and construct population phylogeny from VCF files
+</br>Doi : [https://doi.org/10.1093/gigascience/giaf032](https://doi.org/10.1093/gigascience/giaf032)
+
 ###  1) Install and Parameter
 ------------
 
